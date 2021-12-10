@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KaustubhDubey
-- 👀 I’m interested in web development 
+- 👀 I’m interested in fullstack development 
 - 🌱 I’m currently learning java fullstack 
 - 📫 How to reach me https://www.linkedin.com/in/kaustubh-dubey-63a75215b
 
